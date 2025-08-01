@@ -36,6 +36,7 @@
 
 ## Social
 ![](https://dcbadge.vercel.app/api/shield/376298017730461706)
+DISCORD :  **namu.wiki**
 <br>
 ![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000) :  **@namu.wiki**
 <br>
