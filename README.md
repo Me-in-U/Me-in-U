@@ -95,6 +95,8 @@
 - OCR 기반 챔피언명 인식 + 자동 신고
 - Python (PyAutoGUI, Tkinter), Tesseract OCR
 
+---
+
 </details>
 
 <details>
@@ -123,6 +125,8 @@
 - 플로깅(조깅 + 쓰레기 줍기) 기록 및 보상 시스템
 - 걸음 수, 쓰레기 수거량 기록 + 팀별 경쟁
 - Flutter, Firebase, Google Maps API, YOLOv8
+
+---
 
 </details>
 
