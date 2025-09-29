@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Kim MinGyu
 
----
-
 ## ⚡ Github Stats
 
 <div align="center">
