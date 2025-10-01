@@ -162,8 +162,7 @@
 
 ## 📈 Competitive Programming
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ios)](https://solved.ac/ios/)  
-![](https://raw.githubusercontent.com/BOJ-ios/cf-stats/main/output/light_card.svg)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ios)](https://solved.ac/ios/) ![](https://raw.githubusercontent.com/BOJ-ios/cf-stats/main/output/light_card.svg)
 
 ---
 
