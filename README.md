@@ -131,6 +131,12 @@
 <details>
 <summary>🖥 Web & System Projects</summary>
 
+### [👰‍♀️ StableDiffusion과 VTON을 활용한 Comfy UI API](https://github.com/Me-in-U/VTON_ComfyUI_API)
+
+- 원하는 프롬프트로 옷 생성
+- 생성된 옷을 본인의 사진에 합성
+- 사용자는 원하는 옷을 만들어 입어볼 수 있다
+
 ### [🖥 PC방 상품 주문 관리 시스템](https://github.com/Me-in-U/PC_Cafe_Order_System)
 
 - PC방 내 상품 주문/결제 웹 시스템
