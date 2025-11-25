@@ -158,6 +158,20 @@
 
 </details>
 
+<details>
+<summary>🖥 Windows Application</summary>
+
+### [🔍 Clifa - AI Image Search](https://github.com/Me-in-U/Clifa)
+
+- **Multilingual CLIP + FAISS** 기반 로컬 이미지 검색기
+- **50개 이상 언어 지원** → 한국어, 영어, 일본어, 중국어 등으로 자연어 검색
+- PySide6 기반 프레임리스 GUI
+- Python, Sentence-Transformers, FAISS, PyTorch, PySide6
+
+---
+
+</details>
+
 ---
 
 ## 📈 Competitive Programming
