@@ -77,7 +77,7 @@
 ## 📌 Projects
 
 <details>
-<summary>🤖 Discord & Automation</summary>
+<summary>🤖 Discord Bot Service</summary>
 
 ### [🤖 Discord Bot](https://github.com/Me-in-U/DiscordBot)
 
@@ -86,12 +86,6 @@
 - **YouTube 분석** → 영상 요약 + 댓글 요약, 라이브 알림
 - **게임 기능** → LoL 랭크 조회, 1557 챌린지
 - **파티 시스템 & 음악 재생** → 그룹 활동 지원
-
-### [🚨 신고하자 (Report Macro)](https://github.com/Me-in-U/League-Report-Macro)
-
-- 게임 내 비매너 행위 신고 매크로
-- OCR 기반 챔피언명 인식 + 자동 신고
-- Python (PyAutoGUI, Tkinter), Tesseract OCR
 
 ---
 
@@ -129,7 +123,7 @@
 </details>
 
 <details>
-<summary>🖥 Web & System Projects</summary>
+<summary>🖥 Web Services</summary>
 
 ### [👰‍♀️ StableDiffusion과 VTON을 활용한 Comfy UI API](https://github.com/Me-in-U/VTON_ComfyUI_API)
 
@@ -167,6 +161,12 @@
 - **50개 이상 언어 지원** → 한국어, 영어, 일본어, 중국어 등으로 자연어 검색
 - PySide6 기반 프레임리스 GUI
 - Python, Sentence-Transformers, FAISS, PyTorch, PySide6
+
+### [🚨 신고하자 (Report Macro)](https://github.com/Me-in-U/League-Report-Macro)
+
+- 게임 내 비매너 행위 신고 매크로
+- OCR 기반 챔피언명 인식 + 자동 신고
+- Python (PyAutoGUI, Tkinter), Tesseract OCR
 
 ---
 
