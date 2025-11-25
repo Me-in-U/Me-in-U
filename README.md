@@ -160,6 +160,9 @@
 - 스마트 컨트랙트 에스크로를 통한 안전한 경매
 - Spring Boot, Next.js, FastAPI, Solidity, Redis
 
+
+---
+
 </details>
 
 <details>
@@ -177,8 +180,6 @@
 - 게임 내 비매너 행위 신고 매크로
 - OCR 기반 챔피언명 인식 + 자동 신고
 - Python (PyAutoGUI, Tkinter), Tesseract OCR
-
----
 
 </details>
 
