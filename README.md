@@ -138,17 +138,27 @@
 - 사용자: 상품 조회/주문, 주문 내역 확인
 - HTML, JavaScript
 
-### [🦙 Alpacar (SSAFY 공통 프로젝트)](https://github.com/Me-in-U/Alpacar)
+### [🏢 ZIPKOK (SSAFY 관통(부동산) 프로젝트)](https://github.com/Me-in-U/SSAFY_ZIPKOK)
+
+- Spring AI + OpenAI GPT를 활용한 AI 챗봇 부동산 매물 추천 플랫폼
+- 카카오맵 기반 매물 검색, 실거래가 분석, 학군 정보, 개인화 추천 시스템
+- Python Selenium 크롤링으로 네이버 부동산 매물 및 뉴스 데이터 자동 수집
+- 커뮤니티 게시판, 즐겨찾기, 마이페이지 등 사용자 맞춤 기능 제공
+- Spring Boot 3.4, Vue.js 3, MySQL, Spring AI 1.0, Kakao Maps API
+
+### [🦙 Alpacar (SSAFY 공통(IOT) 프로젝트)](https://github.com/Me-in-U/Alpacar)
 
 - 차량 크기/주차 실력 기반 스마트 주차 추천
 - 실시간 주차 공간 추천 및 시각화
 - Django, Vue.js, MySQL, YOLOv10, EasyOCR, RPi, Jetson
 
-### [🏢 ZIPKOK (SSAFY 관통 프로젝트)](https://github.com/Me-in-U/SSAFY_ZIPKOK)
+### [🎴 TAKO (SSAFY 특화(블록체인) 프로젝트)](https://github.com/Me-in-U/tako)
 
-- SSAFY 교육생 대상 기숙사/스터디룸 예약 시스템
-- 예약, 현황 조회, 관리자 관리 기능 제공
-- Spring Boot, Vue.js, MySQL
+- 블록체인 기반 TCG 카드 P2P 경매 플랫폼
+- YOLO 기반 AI 카드 품질 평가 및 등급화
+- Ethereum ERC-721 NFT 기반 거래 이력 관리
+- 스마트 컨트랙트 에스크로를 통한 안전한 경매
+- Spring Boot, Next.js, FastAPI, Solidity, Redis
 
 </details>
 
