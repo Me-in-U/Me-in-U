@@ -30,7 +30,11 @@
 
 ---
 
+<div align="center">
+
 ## ⚡ Github Stats
+
+</div>
 
 <div align="center">
 
@@ -62,9 +66,17 @@
 
 ---
 
+<div align="center">
+
 ## 🧰 Tech Stack
 
+</div>
+
+<div align="center">
+
 ### 💎 Main Skills
+
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -119,7 +131,11 @@
 
 ---
 
+<div align="center">
+
 ## 📌 Projects
+
+</div>
 
 <details>
 <summary>🎮 Discord Bot Service</summary>
@@ -134,8 +150,8 @@
 
 <a id="discord-bot"></a>
 
-<details>
-<summary><b>🎮 Discord Bot</b></summary>
+  <details>
+  <summary><b>🎮 Discord Bot</b></summary>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Me-in-U/DiscordBot)
 
@@ -145,7 +161,7 @@
 - **게임 기능** → LoL 랭크 조회, 1557 챌린지
 - **파티 시스템 & 음악 재생** → 그룹 활동 지원
 
-</details>
+  </details>
 
 ---
 
@@ -169,6 +185,10 @@
   <div align="center">
 
 ## 01. 🦙 Alpacar
+
+</div>
+
+  <div align="center">
 
 **IoT & AI 기반 스마트 주차 관리 및 자율주행 보조 시스템**
 
@@ -408,6 +428,10 @@ Jetson Nano 객체 인식/라인트레이싱 기반 **자율 주차 보조**
 <div align="center">
 
 ## 02. 🤖 NAMUH (Tori)
+
+</div>
+
+<div align="center">
 
 **Vision AI 기반 소아암 환아 케어 휴머노이드 로봇**
 
@@ -758,8 +782,8 @@ MediaPipe 기반 **양방향 체조 인터랙션** 및 동작 교정
 
 <a id="dream-bridge"></a>
 
-<details>
-<summary><b>🌉 Dream Bridge (GDSC DAU)</b></summary>
+  <details>
+  <summary><b>🌉 Dream Bridge (GDSC DAU)</b></summary>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Me-in-U/GDSC_DAU_Dream_Bridge)
 
@@ -767,12 +791,12 @@ MediaPipe 기반 **양방향 체조 인터랙션** 및 동작 교정
 - 데이터 시각화를 통한 지역별 현황 제공
 - Figma, Flutter, Firebase, Google Maps API
 
-</details>
+  </details>
 
 <a id="university-plogging"></a>
 
-<details>
-<summary><b>🌱 University Plogging (GDSC DAU)</b></summary>
+  <details>
+  <summary><b>🌱 University Plogging (GDSC DAU)</b></summary>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Me-in-U/GDSC_DAU_Plogging)
 
@@ -780,7 +804,7 @@ MediaPipe 기반 **양방향 체조 인터랙션** 및 동작 교정
 - 걸음 수, 쓰레기 수거량 기록 + 팀별 경쟁
 - Flutter, Firebase, Google Maps API, YOLOv8
 
-</details>
+  </details>
 
 </details>
 
@@ -800,8 +824,8 @@ MediaPipe 기반 **양방향 체조 인터랙션** 및 동작 교정
 
 <a id="vton-comfy-ui-api"></a>
 
-<details>
-<summary><b>👰‍♀️ StableDiffusion과 VTON을 활용한 Comfy UI API</b></summary>
+  <details>
+  <summary><b>👰‍♀️ StableDiffusion과 VTON을 활용한 Comfy UI API</b></summary>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Me-in-U/VTON_ComfyUI_API)
 
@@ -809,12 +833,12 @@ MediaPipe 기반 **양방향 체조 인터랙션** 및 동작 교정
 - 생성된 옷을 본인의 사진에 합성
 - 사용자는 원하는 옷을 만들어 입어볼 수 있다
 
-</details>
+  </details>
 
 <a id="pc방-상품-주문-시스템"></a>
 
-<details>
-<summary><b>🖥 PC방 상품 주문 관리 시스템</b></summary>
+  <details>
+  <summary><b>🖥 PC방 상품 주문 관리 시스템</b></summary>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Me-in-U/PC_Cafe_Order_System)
 
@@ -823,12 +847,12 @@ MediaPipe 기반 **양방향 체조 인터랙션** 및 동작 교정
 - 사용자: 상품 조회/주문, 주문 내역 확인
 - HTML, JavaScript
 
-</details>
+  </details>
 
 <a id="zipkok"></a>
 
-<details>
-<summary><b>🏢 ZIPKOK (SSAFY 관통(부동산) 프로젝트)</b></summary>
+  <details>
+  <summary><b>🏢 ZIPKOK (SSAFY 관통(부동산) 프로젝트)</b></summary>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Me-in-U/SSAFY_ZIPKOK)
 
@@ -838,7 +862,7 @@ MediaPipe 기반 **양방향 체조 인터랙션** 및 동작 교정
 - 커뮤니티 게시판, 즐겨찾기, 마이페이지 등 사용자 맞춤 기능 제공
 - Spring Boot 3.4, Vue.js 3, MySQL, Spring AI 1.0, Kakao Maps API
 
-</details>
+  </details>
 
 <details>
 <summary><b>🐙 Tako (SSAFY 특화(블록체인) 프로젝트)</b></summary>
@@ -846,6 +870,10 @@ MediaPipe 기반 **양방향 체조 인터랙션** 및 동작 교정
 <div align="center">
 
 ## 🐙 Tako
+
+</div>
+
+<div align="center">
 
 **블록체인 & AI 기반 TCG 카드 P2P 경매 플랫폼**
 
@@ -1115,8 +1143,8 @@ WebSocket 및 Redis를 활용한 **초저지연 실시간 입찰 시스템**
 
 <a id="clifa---ai-search"></a>
 
-<details>
-<summary><b>🔍 Clifa - AI Image Search</b></summary>
+  <details>
+  <summary><b>🔍 Clifa - AI Image Search</b></summary>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Me-in-U/Clifa)
 
@@ -1125,12 +1153,12 @@ WebSocket 및 Redis를 활용한 **초저지연 실시간 입찰 시스템**
 - PySide6 기반 프레임리스 GUI
 - Python, Sentence-Transformers, FAISS, PyTorch, PySide6
 
-</details>
+  </details>
 
 <a id="신고하자"></a>
 
-<details>
-<summary><b>🚨 신고하자 (Report Macro)</b></summary>
+  <details>
+  <summary><b>🚨 신고하자 (Report Macro)</b></summary>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Me-in-U/League-Report-Macro)
 
@@ -1138,15 +1166,23 @@ WebSocket 및 Redis를 활용한 **초저지연 실시간 입찰 시스템**
 - OCR 기반 챔피언명 인식 + 자동 신고
 - Python (PyAutoGUI, Tkinter), Tesseract OCR
 
-</details>
+  </details>
 
 </details>
 
 ---
 
+<div align="center">
+
 ## 📈 Competitive Programming
 
+</div>
+
+<div align="center">
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ios)](https://solved.ac/ios/) ![](https://raw.githubusercontent.com/BOJ-ios/cf-stats/main/output/light_card.svg)
+
+</div>
 
 ---
 
