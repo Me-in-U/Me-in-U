@@ -47,7 +47,7 @@
 
 </div>
 
-## 🏆 Awards / Certificates
+## 🏆 Awards
 <div align="center">
   
 |    구분     | 기관|        날짜         | 비고                               |
