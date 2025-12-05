@@ -3,7 +3,8 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-contact@ios.kr-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@ios.kr)
-[![Phone](https://img.shields.io/badge/Phone-010--4885--8884-00C73C?style=flat-square&logo=line&logoColor=white)](tel:010-9705-6500)
+[![Phone](https://img.shields.io/badge/Phone-010--9705--6500-00C73C?style=flat-square&logo=line&logoColor=white)](tel:010-9705-6500)
+[![Phone](https://img.shields.io/badge/Phone-010--4885--8884-00C73C?style=flat-square&logo=line&logoColor=white)](tel:010-4885-8884)
 [![GitHub](https://img.shields.io/badge/GitHub-Me--in--U-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Me-in-U)
 [![Location](https://img.shields.io/badge/Location-Busan%2C%20Korea-FF6B6B?style=flat-square&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Busan,Korea)
 
