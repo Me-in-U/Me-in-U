@@ -25,8 +25,6 @@
 
 <br>
 
----
-
 ## ⚡ Github Stats
 
 <div align="center">
@@ -36,8 +34,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Me-in-U&layout=compact&title_color=fff&text_color=fff&bg_color=30,e96443,904e95&hide_border=true&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
----
 
 ## 🎓 Education & Activities
 
@@ -51,9 +47,19 @@
 
 </div>
 
-<br>
+## 🏆 Awards / Certificates
+<div align="center">
+  
+|    구분     | 기관|        날짜         | 비고                               |
+| :---------: | :--------------------------------------------------------------------------------------------------------------- | :-----------------: | :--------------------------------- |
+|  **🏆 [2학기] 자율 프로젝트 부울경 1반 1등** | 삼성전자주식회사| `2025.11.23` |[GitHub](https://github.com/Me-in-U/namuh)|
+|  **🏆 [2학기] 특화 프로젝트 부울경 1반 3등** | 삼성전자주식회사 | `2025.09.29` | [GitHub](https://github.com/Me-in-U/tako)                     |
+|  **🏆 2024 동아 해커톤 장려상** |동아대학교 소프트웨어혁신센터|     `2024.11.29`     | [GitHub](https://github.com/Me-in-U/Run_Together) |
 
----
+</div>
+
+
+<br>
 
 ## 🧰 Tech Stack
 
@@ -112,9 +118,9 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-</details>
-
 ---
+
+</details>
 
 ## 📌 Projects
 
@@ -142,8 +148,8 @@
 
 |        프로젝트         | 한줄 요약                                              |                         링크                         |
 | :---------------------: | :----------------------------------------------------- | :--------------------------------------------------: |
-|   **01. 🦙 Alpacar**    | IoT & AI 기반 스마트 주차 관리 및 자율주행 보조 시스템 |     [GitHub](https://github.com/Me-in-U/Alpacar)     |
-| **02. 🤖 NAMUH (Tori)** | Vision AI 기반 소아암 환아 케어 휴머노이드 로봇        | [GitLab](https://lab.ssafy.com/s13-final/S13P31E108) |
+|   **🦙 Alpacar**    | IoT & AI 기반 스마트 주차 관리 및 자율주행 보조 시스템 |     [GitHub](https://github.com/Me-in-U/Alpacar)     |
+| **🤖 NAMUH** | Vision AI 기반 소아암 환아 케어 휴머노이드 로봇        | [GitLab](https://lab.ssafy.com/s13-final/S13P31E108) |
 
 </div>
 
@@ -196,8 +202,6 @@
 
 </div>
 
----
-
 ## 📈 Competitive Programming
 
 <div align="center">
@@ -205,8 +209,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ios)](https://solved.ac/ios/) ![](https://raw.githubusercontent.com/BOJ-ios/cf-stats/main/output/light_card.svg)
 
 </div>
-
----
 
 ## 🔗 Links
 
