@@ -148,7 +148,7 @@
 
 |        프로젝트         | 한줄 요약                                              |                         링크                         |
 | :---------------------: | :----------------------------------------------------- | :--------------------------------------------------: |
-|   **🦙 Alpacar**    | IoT & AI 기반 스마트 주차 관리 및 자율주행 보조 시스템 |     [GitHub](https://github.com/Me-in-U/Alpacar)     |
+|   **🦙 Alpacar**    | IoT & AI 기반 스마트 주차 관리 및 주차 자리 배정 서비스 |     [GitHub](https://github.com/Me-in-U/Alpacar)     |
 | **🤖 NAMUH** | Vision AI 기반 소아암 환아 케어 휴머노이드 로봇        | [GitLab](https://lab.ssafy.com/s13-final/S13P31E108) |
 
 </div>
