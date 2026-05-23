@@ -53,11 +53,11 @@
   
 |    구분     | 기관|        날짜         | 비고                               |
 | :---------: | :--------------------------------------------------------------------------------------------------------------- | :-----------------: | :--------------------------------- |
-|**🏆 2024 한국멀티미디어학회 추계학술발표대회 BEST PAPER AWARD**|(사)한국멀티미디어학회|`2024.11.07`|[MYWEB](https://ios.kr/about)|
 |  **🏆 삼성 청년 SW·AI 아카데미 자율 프로젝트 전시발표회 발표부문 입상** | 삼성전자주식회사| `2025.12.02` |[YOUTUBE](https://youtu.be/0qWuWFzB6g4?si=DYpWDfIVmuNLcn1O)|
 |  **🏆 삼성 청년 SW·AI 아카데미 자율 프로젝트 부울경 1반 1등** | 삼성전자주식회사| `2025.11.20` |[GitHub](https://github.com/Me-in-U/namuh)|
 |  **🏆 삼성 청년 SW·AI 아카데미 특화 프로젝트 부울경 1반 3등** | 삼성전자주식회사 | `2025.09.29` | [GitHub](https://github.com/Me-in-U/tako)                     |
 |  **🏆 2024 동아 해커톤 장려상** |동아대학교 소프트웨어혁신센터|     `2024.11.29`     | [GitHub](https://github.com/Me-in-U/Run_Together) |
+|**🏆 2024 한국멀티미디어학회 추계학술발표대회 BEST PAPER AWARD**|(사)한국멀티미디어학회|`2024.11.07`|[MYWEB](https://ios.kr/about)|
 
 </div>
 
@@ -200,6 +200,8 @@
 |         프로젝트         | 한줄 요약                                  |                           링크                           |
 | :----------------------: | :----------------------------------------- | :------------------------------------------------------: |
 | **🔍 Clifa - AI Search** | Multilingual CLIP + FAISS 로컬 이미지 검색 |        [GitHub](https://github.com/Me-in-U/Clifa)        |
+| **🌧️ Live Captions Rain** | Windows Live Captions 기반 단어 비 오버레이 | [GitHub](https://github.com/Me-in-U/Live-Captions-Rain) |
+| **🎙️ LiveDialogue Translator** | 실시간 음성 인식·화자 분리·자막·번역 앱 | [GitHub](https://github.com/Me-in-U/LiveDialogue-Translator) |
 |     **🚨 신고하자**      | League of Legends 비매너 행위 신고 매크로  | [GitHub](https://github.com/Me-in-U/League-Report-Macro) |
 
 </div>
@@ -216,13 +218,13 @@
 
 <div align="center">
   
-|자격종목|시행기관|합격일자|
+<!-- |자격종목|시행기관|합격일자|
 |:---------:|:---------------------------------------------------------------------------------------------------------------|:-----------------:|
 |**정보처리기사**|미취득|`20XX.XX.XX`|
 |**빅데이터분석기사**|미취득|`20XX.XX.XX`|
 |**SQLD (SQL 개발자)**|미취득|`20XX.XX.XX`|
 |**ADsP (데이터 분석 준전문가)**|미취득|`20XX.XX.XX`|
-|**데이터 아키텍처 준전문가(DAsP)**|미취득|`20XX.XX.XX`|
+|**데이터 아키텍처 준전문가(DAsP)**|미취득|`20XX.XX.XX`| -->
 
 <details>
 <summary><b>기타 자격증</b></summary>
