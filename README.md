@@ -29,9 +29,9 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Me-in-U&theme=tokyonight&hide_border=true&locale=kr)](https://git.io/streak-stats)  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Me-in-U&show_icons=true&title_color=fff&text_color=fff&bg_color=30,e96443,904e95&hide_border=true&locale=kr)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Me-in-U&layout=compact&title_color=fff&text_color=fff&bg_color=30,e96443,904e95&hide_border=true&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Me-in-U&theme=tokyonight&hide_border=true&locale=kr)](https://git.io/streak-stats)<br>
+[![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Me-in-U&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)<br>
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Me-in-U&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
