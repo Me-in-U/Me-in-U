@@ -82,9 +82,11 @@
 </p>
 
 <details>
-<summary><b>📚 Additional Skills</b></summary>
+<summary align="center"><b>📚 Additional Skills</b></summary>
 
 <br>
+
+<div align="center">
 
 **Languages**
 
@@ -120,6 +122,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
+</div>
 
 ---
 
