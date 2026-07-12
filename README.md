@@ -30,8 +30,7 @@
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Me-in-U&theme=tokyonight&hide_border=true&locale=kr)](https://git.io/streak-stats)<br>
-[![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Me-in-U&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)<br>
-[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Me-in-U&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Me-in-U&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
