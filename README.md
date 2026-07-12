@@ -18,7 +18,7 @@
 
 [🎓 Education & Activities](#-education--activities) •
 [🛠 Tech Stack](#-tech-stack) •
-[🚀 Projects](#-projects) •
+[🚀 Major Projects](#-major-projects) •
 [🔗 Links](#-links)
 
 </div>
@@ -124,7 +124,7 @@
 
 </details>
 
-## 📌 Projects
+## 📌 Major Projects
 
 <div align="center">
 
@@ -134,9 +134,9 @@
 
 <div align="center">
 
-|      프로젝트      | 한줄 요약                                     |                      링크                       |
-| :----------------: | :-------------------------------------------- | :---------------------------------------------: |
-| **🎮 Discord Bot** | 유튜브 스트리밍 및 AI 연동 다기능 디스코드 봇 | [GitHub](https://github.com/Me-in-U/DiscordBot) |
+|      프로젝트      | 한줄 요약                                                  |                      링크                       |
+| :----------------: | :--------------------------------------------------------- | :---------------------------------------------: |
+| **🎮 Discord Bot** | AI 보조·음악·YouTube/게임 알림을 통합한 Discord 서버 운영 봇 | [GitHub](https://github.com/Me-in-U/DiscordBot) |
 
 </div>
 
@@ -169,7 +169,6 @@
 |           **🏃‍♂️ Run Together**            | 러닝 기록 공유 및 커뮤니티 앱       |            [GitHub](https://github.com/Me-in-U/Run_Together)            |
 |           **🌉 Dream Bridge**            | 한부모 가구 ↔ 자선단체 연결 플랫폼  |       [GitHub](https://github.com/Me-in-U/GDSC_DAU_Dream_Bridge)        |
 |        **🌱 University Plogging**        | 플로깅 기록 및 보상 시스템          |         [GitHub](https://github.com/Me-in-U/GDSC_DAU_Plogging)          |
-| **📱 DataSet Maker for ObjectDetection** | 객체 탐지용 데이터셋 생성/라벨링 툴 | [GitHub](https://github.com/Me-in-U/DataSet_Maker_for_Object_Detection) |
 
 </div>
 
@@ -183,6 +182,7 @@
 
 |         프로젝트         | 한줄 요약                                   |                         링크                          |
 | :----------------------: | :------------------------------------------ | :---------------------------------------------------: |
+|   **🧩 ControlCenter**   | Flutter·Spring 기반 개인 클라우드 스토리지·운영 플랫폼 | [GitHub](https://github.com/Me-in-U/ControlCenter) |
 | **👰‍♀️ VTON Comfy UI API** | StableDiffusion과 VTON 활용 가상 피팅       | [GitHub](https://github.com/Me-in-U/VTON_ComfyUI_API) |
 |      **🏢 ZIPKOK**       | AI 챗봇 부동산 매물 추천 플랫폼             |   [GitHub](https://github.com/Me-in-U/SSAFY_ZIPKOK)   |
 |       **🐙 Tako**        | 블록체인 & AI 기반 TCG 카드 P2P 경매 플랫폼 |       [GitHub](https://github.com/Me-in-U/tako)       |
@@ -202,9 +202,24 @@
 | **🔍 Clifa - AI Search** | Multilingual CLIP + FAISS 로컬 이미지 검색 |        [GitHub](https://github.com/Me-in-U/Clifa)        |
 | **🌧️ Live Captions Rain** | Windows Live Captions 기반 단어 비 오버레이 | [GitHub](https://github.com/Me-in-U/Live-Captions-Rain) |
 | **🎙️ LiveDialogue Translator** | 실시간 음성 인식·화자 분리·자막·번역 앱 | [GitHub](https://github.com/Me-in-U/LiveDialogue-Translator) |
-|     **🚨 신고하자**      | League of Legends 비매너 행위 신고 매크로  | [GitHub](https://github.com/Me-in-U/League-Report-Macro) |
 
 </div>
+
+<details>
+<summary><b>📁 Other Projects</b></summary>
+
+<br>
+
+<div align="center">
+
+|                 프로젝트                 | 한줄 요약                           |                                  링크                                   |
+| :--------------------------------------: | :---------------------------------- | :---------------------------------------------------------------------: |
+| **📱 DataSet Maker for ObjectDetection** | 객체 탐지용 데이터셋 생성/라벨링 툴 | [GitHub](https://github.com/Me-in-U/DataSet_Maker_for_Object_Detection) |
+|           **🚨 신고하자**            | League of Legends 비매너 행위 신고 매크로 | [GitHub](https://github.com/Me-in-U/League-Report-Macro) |
+
+</div>
+
+</details>
 
 ## 📈 Competitive Programming
 
