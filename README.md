@@ -4,9 +4,8 @@
 
 [![Email](https://img.shields.io/badge/Email-contact@ios.kr-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@ios.kr)
 [![Phone](https://img.shields.io/badge/Phone-010--9705--6500-00C73C?style=flat-square&logo=line&logoColor=white)](tel:010-9705-6500)
-[![Phone](https://img.shields.io/badge/Phone-010--4885--8884-00C73C?style=flat-square&logo=line&logoColor=white)](tel:010-4885-8884)
 [![GitHub](https://img.shields.io/badge/GitHub-Me--in--U-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Me-in-U)
-[![Location](https://img.shields.io/badge/Location-Busan%2C%20Korea-FF6B6B?style=flat-square&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Busan,Korea)
+[![Location](https://img.shields.io/badge/Location-ChangWon%2C%20Korea-FF6B6B?style=flat-square&logo=google-maps&logoColor=white)](https://maps.google.com/?q=ChangWon,Korea)
 
 </div>
 
@@ -30,7 +29,6 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Me-in-U&theme=tokyonight&hide_border=true&locale=kr)](https://git.io/streak-stats)<br>
 [![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Me-in-U&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
@@ -39,12 +37,12 @@
 
 <div align="center">
 
-|    구분     | 기관                                                                                                             |        기간         | 비고                 |
-| :---------: | :--------------------------------------------------------------------------------------------------------------- | :-----------------: | :------------------- |
-| 🏛️ **학력** | [동아대학교](https://computer.donga.ac.kr/) 컴퓨터공학과                                                         | `2019.03 ~ 2025.02` | 🎓 학사 졸업         |
-| 🌐 **활동** | [GDSC Dong-A University](https://gdg.community.dev/gdg-on-campus-dong-a-university-busan-south-korea/) 1기 ~ 2기 | `2023.01 ~ 2024.09` | ⭐ Core Member       |
-| 💼 **교육** | 부산정보산업진흥원 모빌리티 AI·빅데이터 교육                                                                     | `2024.07.01 ~ 08.02` | ⏱️ 160시간          |
-| 💼 **교육** | [SSAFY](https://www.ssafy.com/) 삼성 청년 SW AI 아카데미 13기                                                    | `2025.01 ~ 2025.12` | 👨‍🏫 1학기 CA (부반장) · ⏱️ 1,620시간 |
+|    구분     | 기관                                                                                                             |         기간         | 비고                                |
+| :---------: | :--------------------------------------------------------------------------------------------------------------- | :------------------: | :---------------------------------- |
+| 🏛️ **학력** | [동아대학교](https://computer.donga.ac.kr/) 컴퓨터공학과                                                         | `2019.03 ~ 2025.02`  | 🎓 학사 졸업                        |
+| 🌐 **활동** | [GDSC Dong-A University](https://gdg.community.dev/gdg-on-campus-dong-a-university-busan-south-korea/) 1기 ~ 2기 | `2023.01 ~ 2024.09`  | ⭐ Core Member                      |
+| 💼 **교육** | 부산정보산업진흥원 모빌리티 AI·빅데이터 교육                                                                     | `2024.07.01 ~ 08.02` | ⏱️ 160시간                          |
+| 💼 **교육** | [SSAFY](https://www.ssafy.com/) 삼성 청년 SW AI 아카데미 13기                                                    | `2025.01 ~ 2025.12`  | 👨‍🏫 1학기 CA (부반장) · ⏱️ 1,620시간 |
 
 </div>
 
@@ -139,8 +137,8 @@
 
 <div align="center">
 
-|      프로젝트      | 한줄 요약                                                  |                      링크                       |
-| :----------------: | :--------------------------------------------------------- | :---------------------------------------------: |
+|      프로젝트      | 한줄 요약                                                    |                      링크                       |
+| :----------------: | :----------------------------------------------------------- | :---------------------------------------------: |
 | **🎮 Discord Bot** | AI 보조·음악·YouTube/게임 알림을 통합한 Discord 서버 운영 봇 | [GitHub](https://github.com/Me-in-U/DiscordBot) |
 
 </div>
@@ -169,11 +167,11 @@
 
 <div align="center">
 
-|                 프로젝트                 | 한줄 요약                           |                                  링크                                   |
-| :--------------------------------------: | :---------------------------------- | :---------------------------------------------------------------------: |
-|           **🏃‍♂️ Run Together**            | 러닝 기록 공유 및 커뮤니티 앱       |            [GitHub](https://github.com/Me-in-U/Run_Together)            |
-|           **🌉 Dream Bridge**            | 한부모 가구 ↔ 자선단체 연결 플랫폼  |       [GitHub](https://github.com/Me-in-U/GDSC_DAU_Dream_Bridge)        |
-|        **🌱 University Plogging**        | 플로깅 기록 및 보상 시스템          |         [GitHub](https://github.com/Me-in-U/GDSC_DAU_Plogging)          |
+|          프로젝트          | 한줄 요약                          |                            링크                            |
+| :------------------------: | :--------------------------------- | :--------------------------------------------------------: |
+|    **🏃‍♂️ Run Together**     | 러닝 기록 공유 및 커뮤니티 앱      |     [GitHub](https://github.com/Me-in-U/Run_Together)      |
+|    **🌉 Dream Bridge**     | 한부모 가구 ↔ 자선단체 연결 플랫폼 | [GitHub](https://github.com/Me-in-U/GDSC_DAU_Dream_Bridge) |
+| **🌱 University Plogging** | 플로깅 기록 및 보상 시스템         |   [GitHub](https://github.com/Me-in-U/GDSC_DAU_Plogging)   |
 
 </div>
 
@@ -185,12 +183,12 @@
 
 <div align="center">
 
-|         프로젝트         | 한줄 요약                                   |                         링크                          |
-| :----------------------: | :------------------------------------------ | :---------------------------------------------------: |
-|   **🧩 ControlCenter**   | Flutter·Spring 기반 개인 클라우드 스토리지·운영 플랫폼 | [GitHub](https://github.com/Me-in-U/ControlCenter) |
-| **👰‍♀️ VTON Comfy UI API** | StableDiffusion과 VTON 활용 가상 피팅       | [GitHub](https://github.com/Me-in-U/VTON_ComfyUI_API) |
-|      **🏢 ZIPKOK**       | AI 챗봇 부동산 매물 추천 플랫폼             |   [GitHub](https://github.com/Me-in-U/SSAFY_ZIPKOK)   |
-|       **🐙 Tako**        | 블록체인 & AI 기반 TCG 카드 P2P 경매 플랫폼 |       [GitHub](https://github.com/Me-in-U/tako)       |
+|         프로젝트         | 한줄 요약                                              |                         링크                          |
+| :----------------------: | :----------------------------------------------------- | :---------------------------------------------------: |
+|   **🧩 ControlCenter**   | Flutter·Spring 기반 개인 클라우드 스토리지·운영 플랫폼 |  [GitHub](https://github.com/Me-in-U/ControlCenter)   |
+| **👰‍♀️ VTON Comfy UI API** | StableDiffusion과 VTON 활용 가상 피팅                  | [GitHub](https://github.com/Me-in-U/VTON_ComfyUI_API) |
+|      **🏢 ZIPKOK**       | AI 챗봇 부동산 매물 추천 플랫폼                        |   [GitHub](https://github.com/Me-in-U/SSAFY_ZIPKOK)   |
+|       **🐙 Tako**        | 블록체인 & AI 기반 TCG 카드 P2P 경매 플랫폼            |       [GitHub](https://github.com/Me-in-U/tako)       |
 
 </div>
 
@@ -202,11 +200,11 @@
 
 <div align="center">
 
-|         프로젝트         | 한줄 요약                                  |                           링크                           |
-| :----------------------: | :----------------------------------------- | :------------------------------------------------------: |
-| **🔍 Clifa - AI Search** | Multilingual CLIP + FAISS 로컬 이미지 검색 |        [GitHub](https://github.com/Me-in-U/Clifa)        |
-| **🌧️ Live Captions Rain** | Windows Live Captions 기반 단어 비 오버레이 | [GitHub](https://github.com/Me-in-U/Live-Captions-Rain) |
-| **🎙️ LiveDialogue Translator** | 실시간 음성 인식·화자 분리·자막·번역 앱 | [GitHub](https://github.com/Me-in-U/LiveDialogue-Translator) |
+|            프로젝트            | 한줄 요약                                   |                             링크                             |
+| :----------------------------: | :------------------------------------------ | :----------------------------------------------------------: |
+|    **🔍 Clifa - AI Search**    | Multilingual CLIP + FAISS 로컬 이미지 검색  |          [GitHub](https://github.com/Me-in-U/Clifa)          |
+|   **🌧️ Live Captions Rain**    | Windows Live Captions 기반 단어 비 오버레이 |   [GitHub](https://github.com/Me-in-U/Live-Captions-Rain)    |
+| **🎙️ LiveDialogue Translator** | 실시간 음성 인식·화자 분리·자막·번역 앱     | [GitHub](https://github.com/Me-in-U/LiveDialogue-Translator) |
 
 </div>
 
@@ -217,10 +215,10 @@
 
 <div align="center">
 
-|                 프로젝트                 | 한줄 요약                           |                                  링크                                   |
-| :--------------------------------------: | :---------------------------------- | :---------------------------------------------------------------------: |
-| **📱 DataSet Maker for ObjectDetection** | 객체 탐지용 데이터셋 생성/라벨링 툴 | [GitHub](https://github.com/Me-in-U/DataSet_Maker_for_Object_Detection) |
-|           **🚨 신고하자**            | League of Legends 비매너 행위 신고 매크로 | [GitHub](https://github.com/Me-in-U/League-Report-Macro) |
+|                 프로젝트                 | 한줄 요약                                 |                                  링크                                   |
+| :--------------------------------------: | :---------------------------------------- | :---------------------------------------------------------------------: |
+| **📱 DataSet Maker for ObjectDetection** | 객체 탐지용 데이터셋 생성/라벨링 툴       | [GitHub](https://github.com/Me-in-U/DataSet_Maker_for_Object_Detection) |
+|             **🚨 신고하자**              | League of Legends 비매너 행위 신고 매크로 |        [GitHub](https://github.com/Me-in-U/League-Report-Macro)         |
 
 </div>
 
